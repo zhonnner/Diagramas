@@ -1,0 +1,550 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:00.42",
+			"end_time": "00:00:02.02",
+			"text": " Bueno, la historia de usuario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:02.22",
+			"end_time": "00:00:14.50",
+			"text": "Yo como administrador de salas necesito gestionar la informaci\u00f3n, la asignaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:16.75",
+			"end_time": "00:00:18.08",
+			"text": "No s\u00e9 qu\u00e9 es traslapes."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:18.75",
+			"end_time": "00:00:19.73",
+			"text": "No s\u00e9 si es traslapes."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:19.96",
+			"end_time": "00:00:20.44",
+			"text": "Lea lo mejor."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:20.46",
+			"end_time": "00:00:26.01",
+			"text": "Yo como administrador de salas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:38.52",
+			"end_time": "00:00:39.39",
+			"text": "Traslapes, problema de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:39.42",
+			"end_time": "00:00:40.20",
+			"text": "Traslapes."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:40.24",
+			"end_time": "00:00:42.78",
+			"text": "\u00bfVamos a ocupar el tel\u00e9fono para buscar la obra?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:42.79",
+			"end_time": "00:00:43.14",
+			"text": "No s\u00e9, yo creo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:43.17",
+			"end_time": "00:00:48.89",
+			"text": "No s\u00e9 si es traslapes o traslapes, o traspapeles, para evitar traspapeles, a lo mejor puede ser."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:49.21",
+			"end_time": "00:00:50.70",
+			"text": "\u00bfProblema, en vola?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:00:50.71",
+			"end_time": "00:00:51.82",
+			"text": "S\u00ed, pues para evitar problemas."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:51.84",
+			"end_time": "00:00:53.06",
+			"text": "Traslapes, que es..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:58.52",
+			"end_time": "00:00:58.97",
+			"text": " \u00bfA qu\u00e9 se refiere?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:27.20",
+			"end_time": "00:01:30.98",
+			"text": " Disposici\u00f3n de dos cosas de manera que una cubra total o parcialmente a la otra."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:32.23",
+			"end_time": "00:01:32.39",
+			"text": "\u00bfC\u00f3mo?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:33.35",
+			"end_time": "00:01:35.85",
+			"text": "Es que no s\u00e9 si en la definici\u00f3n... Mira."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:39.04",
+			"end_time": "00:01:45.98",
+			"text": "\u00bfQu\u00e9 es lo que dice?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:54.43",
+			"end_time": "00:02:00.06",
+			"text": " Ah, claro, para evitar b\u00e1sicamente que no se acoplen los..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:01.01",
+			"end_time": "00:02:02.06",
+			"text": "Que no haya un choque."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:02.09",
+			"end_time": "00:02:04.32",
+			"text": "No un choque, pero..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:04.59",
+			"end_time": "00:02:05.52",
+			"text": "No, pero en este caso."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:05.53",
+			"end_time": "00:02:05.75",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:06.14",
+			"end_time": "00:02:07.92",
+			"text": "En este caso ser\u00eda como un tope de sala."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:08.24",
+			"end_time": "00:02:08.30",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:35.50",
+			"end_time": "00:02:43.00",
+			"text": " \u00bfEst\u00e1n todos listos para un estimado de complejidad?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:44.15",
+			"end_time": "00:02:44.84",
+			"text": "A la cuenta de tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:45.06",
+			"end_time": "00:02:51.08",
+			"text": "Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:51.34",
+			"end_time": "00:02:51.97",
+			"text": "\u00bfPor qu\u00e9 cinco?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:52.24",
+			"end_time": "00:02:52.41",
+			"text": "Dime."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:53.59",
+			"end_time": "00:03:01.47",
+			"text": " Creo que mucha informaci\u00f3n y est\u00e1 muy junta porque dice informaci\u00f3n, asignaci\u00f3n de sala y laboratorio."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:01.96",
+			"end_time": "00:03:07.59",
+			"text": "Son como muchos datos para una historia de usuario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:07.63",
+			"end_time": "00:03:20.11",
+			"text": "Si estamos hablando a nivel universidad completo, claro, ah\u00ed le encuentro un punto a lo que t\u00fa dices porque tenemos dos semanas para recopilar toda la informaci\u00f3n de asignaturas, de qui\u00e9n asigna las salas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:21.77",
+			"end_time": "00:03:25.81",
+			"text": " Igual encontrar\u00eda una l\u00f3gica que fuera pr\u00e1cticamente imposible o si fuera muy complicado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:26.06",
+			"end_time": "00:03:29.37",
+			"text": "S\u00ed, adem\u00e1s creo que se necesitar\u00eda otra reuni\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:29.40",
+			"end_time": "00:03:31.21",
+			"text": "Porque con eso no me dice nada."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:31.56",
+			"end_time": "00:03:32.50",
+			"text": "Falta m\u00e1s informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:32.91",
+			"end_time": "00:03:34.93",
+			"text": "Y adem\u00e1s creo que eso deber\u00eda ser m\u00e1s historias de usuario."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:36.12",
+			"end_time": "00:03:36.25",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:36.90",
+			"end_time": "00:03:46.47",
+			"text": "Aparte de la informaci\u00f3n no tenemos... Bueno, yo la complique, le agradezco por el tema de que estamos con un poco... O sea, no tenemos noci\u00f3n del vocabulario como tal."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:03:46.53",
+			"end_time": "00:03:47.53",
+			"text": "Ninguno de nosotros sabe qu\u00e9 es traslape"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:49.15",
+			"end_time": "00:04:15.20",
+			"text": " entonces tomar\u00eda m\u00e1s l\u00f3gica el punto de \u00e9l que ser\u00eda pr\u00e1cticamente imposible porque una tendr\u00edamos que coordinar una reuni\u00f3n hay que ver el cliente a qu\u00e9 en cu\u00e1nto nos va a responder cu\u00e1nto va a ser su feedback solo tenemos dos semanas as\u00ed que yo creo que ya por lo menos en mi opini\u00f3n ya cambiar\u00eda no s\u00e9 si es de un lado de ustedes en general s\u00ed como informaci\u00f3n podr\u00eda ser que el tipo entre un 4"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:15.95",
+			"end_time": "00:04:18.60",
+			"text": "S\u00ed con esa informaci\u00f3n podr\u00eda ser que el tipo entre un 4"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:20.02",
+			"end_time": "00:04:21.88",
+			"text": " Pero con eso ya podr\u00eda ser m\u00e1s complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:22.18",
+			"end_time": "00:04:25.47",
+			"text": "S\u00ed, yo ya lo veo complicado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:25.55",
+			"end_time": "00:04:29.38",
+			"text": "Ya con la pura reuni\u00f3n, creo que ya ir\u00eda 5, que falta m\u00e1s informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:30.02",
+			"end_time": "00:04:33.99",
+			"text": "S\u00ed, es que igual no tenemos claro en cu\u00e1nto nos va a responder el cliente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:34.41",
+			"end_time": "00:04:34.64",
+			"text": "Tambi\u00e9n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:35.49",
+			"end_time": "00:04:39.98",
+			"text": "Si el cliente no responde inmediatamente porque lo necesita de urgencia, podr\u00edamos terminarlo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:40.14",
+			"end_time": "00:04:43.89",
+			"text": "S\u00ed que yo creo que, por lo menos para m\u00ed, cambiar\u00eda un complicado."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:43.98",
+			"end_time": "00:04:48.92",
+			"text": "S\u00ed, pero seg\u00fan esto, tengo entendido que va a poder acceder al contenedor de servicios sociales y al..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:50.07",
+			"end_time": "00:04:51.54",
+			"text": " de los servicios del dispositivo m\u00f3vil, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:52.16",
+			"end_time": "00:04:54.30",
+			"text": "Ya saltando un poquito mi rol de persistencia."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:56.56",
+			"end_time": "00:04:59.18",
+			"text": "Igual depende de cu\u00e1nto puedas acceder a esos componentes."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:59.81",
+			"end_time": "00:05:02.07",
+			"text": "Y hay que ver el tema de que si todo ya est\u00e1 puesto."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:02.60",
+			"end_time": "00:05:04.36",
+			"text": "En tu caso, por el tema de persistencia."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:05.87",
+			"end_time": "00:05:10.99",
+			"text": "Yo, por lo menos, para lo que es la interfaz de usuario, igual no necesitar\u00eda..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:11.19 ",
+			"end_time": "00:05:13.79",
+			"text": "S\u00ed, y en tu tema tambi\u00e9n, porque hay que poner la interfaz."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:14.11",
+			"end_time": "00:05:16.12",
+			"text": "No hay que poner informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:16.29",
+			"end_time": "00:05:17.14",
+			"text": "\u00bfQu\u00e9 es informaci\u00f3n?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:19.48",
+			"end_time": "00:05:22.43",
+			"text": " Eso ya ser\u00eda otra historia de historia del tema de interfaz, \u00bfno?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:22.54",
+			"end_time": "00:05:22.80",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:23.16",
+			"end_time": "00:05:24.98",
+			"text": "Entonces, yo estoy entre el 4 y el 5."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:25.81",
+			"end_time": "00:05:27.37",
+			"text": "No s\u00e9 si alguno de ustedes..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:28.01",
+			"end_time": "00:05:29.87",
+			"text": "Yo lo veo m\u00e1s por el 5 igual."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:30.81",
+			"end_time": "00:05:31.39",
+			"text": "\u00bfY t\u00fa, Fabi\u00e1n?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:31.61",
+			"end_time": "00:05:32.35",
+			"text": "Por el tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:33.37",
+			"end_time": "00:05:40.32",
+			"text": "Yo creo que existen igual varias cosas que se escapan de nuestro control."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:40.35",
+			"end_time": "00:05:41.35",
+			"text": "Por ejemplo, lo que dijiste t\u00fa."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:41.49",
+			"end_time": "00:05:42.49",
+			"text": "El tema del tiempo del feedback."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:42.50",
+			"end_time": "00:05:44.11",
+			"text": "Entonces, como una variante, yo lo dejar\u00eda en 4."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:44.83",
+			"end_time": "00:05:48.83",
+			"text": " Para m\u00ed no es algo imposible, pero s\u00ed podr\u00eda ser complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:49.62",
+			"end_time": "00:06:03.18",
+			"text": "Se podr\u00eda hacer con el tiempo que tenemos, si se trabaja las horas correspondidas y todo, se podr\u00eda llegar a hacer, pero tambi\u00e9n necesitamos la contribuci\u00f3n del administrador."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:03.24",
+			"end_time": "00:06:07.95",
+			"text": "As\u00ed que por eso yo estoy entre las dos, porque todo depende."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:08.83",
+			"end_time": "00:06:10.69",
+			"text": "Estamos en un caso de que"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:11.88",
+			"end_time": "00:06:14.89",
+			"text": " Vamos a depender de alguien externo a nuestro equipo de trabajo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:16.60",
+			"end_time": "00:06:21.30",
+			"text": "No s\u00e9 qu\u00e9 parada estamos, estamos con cuatro o cinco, pero dependiendo de ella la informaci\u00f3n extra puede llegar hasta uno."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:21.87",
+			"end_time": "00:06:23.13",
+			"text": "Porque en parada no hay informaci\u00f3n en nada."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:24.37",
+			"end_time": "00:06:27.24",
+			"text": "Porque con esa por esto de serios no tenemos la informaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:27.72",
+			"end_time": "00:06:29.27",
+			"text": "Yo creo que lo dejar\u00edan complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:30.79",
+			"end_time": "00:06:32.43",
+			"text": "Yo tambi\u00e9n lo dejar\u00eda complicado."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:34.91",
+			"end_time": "00:06:39.75",
+			"text": "Porque podr\u00edamos desarrollarlo siempre y cuando no haya ning\u00fan inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:40.17",
+			"end_time": "00:06:42.27",
+			"text": " pero el componente no ser\u00eda reuniones con eso."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:43.47",
+			"end_time": "00:06:44.67",
+			"text": "Por eso, no habr\u00eda componente..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:46.47",
+			"end_time": "00:07:06.67",
+			"text": "Componente de qu\u00e9 datos necesitamos porque seguramente igual creo que podr\u00edamos acceder a contenedores creo que s\u00ed pero no faltar\u00eda reuniones"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:15.63",
+			"end_time": "00:07:28.80",
+			"text": " entonces si dice aqu\u00ed que siempre cuando no hay ning\u00fan inconveniente las reuniones y el tiempo de respuesta son inconvenientes as\u00ed que para mi quedan 5. No s\u00e9 si Fabi\u00e1n est\u00e1 de acuerdo estoy de acuerdo ya eso ser\u00eda nada m\u00e1s que legal no si est\u00e1 todo depende de la reuni\u00f3n"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:29.13",
+			"end_time": "00:07:30.00",
+			"text": "Estoy de acuerdo"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:30.13",
+			"end_time": "00:07:34.20",
+			"text": "Ya eso ser\u00eda nada m\u00e1s que agregar"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:34.53",
+			"end_time": "00:07:35.00",
+			"text": "No"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:38.13",
+			"end_time": "00:07:41.30",
+			"text": "Si est\u00e1 todo depende de la reuni\u00f3n"
+		}
+	]
+}

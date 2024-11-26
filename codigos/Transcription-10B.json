@@ -1,0 +1,352 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:01:29.37",
+			"end_time": "00:01:41.67",
+			"text": "síguelo pasando para poder ir viendo y vamos haciendo la rueda y ahí después votamos"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:47.15",
+			"end_time": "00:02:48.99",
+			"text": " Est\u00e1n tienen su..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:17.06",
+			"end_time": "00:03:18.43",
+			"text": " \u00bfDecidieron alguno para que hagamos la primera...?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:21.15",
+			"end_time": "00:03:22.13",
+			"text": "Yo eleg\u00ed cuatro."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:25.87",
+			"end_time": "00:03:26.37",
+			"text": "Yo eleg\u00ed tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:28.37",
+			"end_time": "00:03:29.28",
+			"text": "Yo elijo tres."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:30.24",
+			"end_time": "00:03:31.78",
+			"text": "Mira, entonces parto yo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:36.19",
+			"end_time": "00:03:42.68",
+			"text": "Yo creo que va a ser complicado desarrollarlo en un tiempo de dos semanas, principalmente debido a que..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:45.83",
+			"end_time": "00:03:59.37",
+			"text": " Aqu\u00ed lo que se nos est\u00e1 pidiendo es b\u00e1sicamente la informaci\u00f3n, o sea, que funcione el contenedor de consulta asignatura service, pero esto tambi\u00e9n deriva informaci\u00f3n de inscripci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:59.74",
+			"end_time": "00:04:12.59",
+			"text": "Entonces, por ejemplo, si existen problemas en la inscripci\u00f3n de estos mismos datos y no llegan a inscripci\u00f3n service, entonces la consulta de asignaturas, ese servicio no va a estar funcionando bien."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:13.46",
+			"end_time": "00:04:40.22",
+			"text": " que depende directamente de los otros dos servicios entonces si existe cualquier error primero tendremos que partir por inscripci\u00f3n app que es por donde parte la consulta de los datos de asignatura laboratorio y todo entonces tendr\u00edamos que ver que est\u00e9 funcionando correctamente inscripci\u00f3n app despu\u00e9s que est\u00e9 funcionando tambi\u00e9n el servicio de inscripci\u00f3n para tal vez empezar a desarrollar o"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:43.76",
+			"end_time": "00:04:45.56",
+			"text": " O mejorar consulta de asignatura."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:45.92",
+			"end_time": "00:04:52.13",
+			"text": "Ahora el otro."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:52.18",
+			"end_time": "00:05:05.88",
+			"text": "Cualquier otro, dijeron todos 3, as\u00ed que cualquier otro quede su punto."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:06.50",
+			"end_time": "00:05:10.35",
+			"text": "\u00bfT\u00fa est\u00e1s diciendo que en inscripci\u00f3n apps es la que se llama?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:10.38",
+			"end_time": "00:05:11.31",
+			"text": "S\u00ed, pues ac\u00e1 dice, mira."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:12.29",
+			"end_time": "00:05:12.38",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:13.41",
+			"end_time": "00:05:16.94",
+			"text": " el proceso semestral inicia en inscripci\u00f3n, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:17.66",
+			"end_time": "00:05:25.01",
+			"text": "T\u00fa inscrib\u00eds tus datos y este mismo ocupa los servicios backend de inscripci\u00f3n service, \u00bfvale?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:26.83",
+			"end_time": "00:05:32.82",
+			"text": "Como tenemos, ah\u00ed est\u00e1is usando dos sistemas que dependen expresamente uno del otro, \u00bfvale?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:32.88",
+			"end_time": "00:05:39.79",
+			"text": "Entonces despu\u00e9s, cuando usamos el servicio consulta asignatura, s\u00ed o s\u00ed tienen que estar funcionando correctamente los otros dos servicios."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:42.95",
+			"end_time": "00:05:48.04",
+			"text": " Entonces, ac\u00e1 dice tambi\u00e9n que consulta asignatura obtiene la informaci\u00f3n del servicio de inscripci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:49.22",
+			"end_time": "00:05:56.23",
+			"text": "Entonces, tambi\u00e9n tenemos que hacer que retornen los valores directamente desde ese servicio."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:05:57.37",
+			"end_time": "00:06:09.06",
+			"text": "O sea, para m\u00ed, para la app, tenemos que manejar no solamente el contenedor de consulta asignatura, sino que tambi\u00e9n tenemos que estar viendo que los otros dos funcionen correctamente y no existan problemas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:12.37",
+			"end_time": "00:06:14.27",
+			"text": " \u00bfY t\u00fa dec\u00eds que en dos semanas no alcanza?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:14.77",
+			"end_time": "00:06:16.50",
+			"text": "No, pues el 4 es complicado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:16.51",
+			"end_time": "00:06:31.77",
+			"text": "O sea, yo creo que se puede desarrollar en ese tiempo, pero si existe alg\u00fan inconveniente de que, por ejemplo, Inscripci\u00f3n App o el servicio de inscripci\u00f3n est\u00e9 funcionando mal, tendr\u00edas que primero partir arreglando eso antes de empezar a trabajar en consulta de asignatura."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:33.54",
+			"end_time": "00:06:34.19",
+			"text": "O sea, eso creo yo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:35.22",
+			"end_time": "00:06:39.57",
+			"text": "Ahora ustedes tienen que dar otro punto o si no tenemos que hacer otro Planning Poker."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:12.98",
+			"end_time": "00:07:17.48",
+			"text": " Pero es que ah\u00ed est\u00e1is viendo si hay un inconveniente, pero es que... \u00bfQu\u00e9 inconveniente puede pasar?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:18.06",
+			"end_time": "00:07:22.63",
+			"text": "O sea que, por ejemplo, que el microservicio no funcione o que a inicio semestral se haya inscrito mal."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:22.66",
+			"end_time": "00:07:27.68",
+			"text": "Es que estamos a cargo de la mantenci\u00f3n, entonces deber\u00eda estar funcionando."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:28.20",
+			"end_time": "00:07:29.76",
+			"text": "Es que eso ya no ser\u00eda parte de..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:30.80",
+			"end_time": "00:07:33.36",
+			"text": "O sea, claro, pero lo que te est\u00e1n diciendo..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:33.55",
+			"end_time": "00:07:35.56",
+			"text": "Si hay un error en la mantenci\u00f3n tenemos que hacerlo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:35.79",
+			"end_time": "00:07:36.05",
+			"text": "Claro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:36.58",
+			"end_time": "00:07:41.67",
+			"text": "Pero el tema es que ya est\u00e1 funcionando, no debe ser tan costoso como que... No deber\u00eda haber un error grave."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:42.47",
+			"end_time": "00:07:45.85",
+			"text": " Dice, es responsabilidad del equipo tuyo de asignaturas el desarrollo y mantenci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:46.81",
+			"end_time": "00:07:51.02",
+			"text": "O sea, como dice el desarrollo, puede que esto no est\u00e9 desarrollado."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:52.51",
+			"end_time": "00:08:01.57",
+			"text": "Porque dice, ac\u00e1 en el contexto del problema, dice, es responsabilidad del equipo tuyo de asignaturas, que ser\u00edamos nosotros, el desarrollo y mantenci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:02.39",
+			"end_time": "00:08:05.23",
+			"text": "O sea, a m\u00ed me indica que no est\u00e1 desarrollado ese producto todav\u00eda."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:05.85",
+			"end_time": "00:08:08.70",
+			"text": "De hecho, si tenemos la historia de usuarios, nos est\u00e1n pidiendo a nosotros que desarrollemos eso."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:10.12",
+			"end_time": "00:08:13.79",
+			"text": " Y claro, para desarrollar eso tenemos que asumir que los otros dos servicios est\u00e1n funcionando bien."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:14.14",
+			"end_time": "00:08:17.91",
+			"text": "Pero si no es as\u00ed, ese servicio tiene que estar s\u00ed o s\u00ed relacionado con esos dos."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:17.93",
+			"end_time": "00:08:21.32",
+			"text": "Entonces ah\u00ed podr\u00eda existir el inconveniente."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:21.68",
+			"end_time": "00:08:24.63",
+			"text": "Eso es lo que entend\u00ed a poner."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:25.37",
+			"end_time": "00:08:27.83",
+			"text": "El problema con la creaci\u00f3n de consultas asignatarias."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:27.87",
+			"end_time": "00:08:30.77",
+			"text": "Pero t\u00fa, da tu opini\u00f3n por si tiraste tres."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:08:31.33",
+			"end_time": "00:08:33.35",
+			"text": "No, yo de hecho lo cambiar\u00eda a..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:33.83",
+			"end_time": "00:08:35.25",
+			"text": "Entonces hagamos el planning poker de nuevo."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:36.27",
+			"end_time": "00:08:39.42",
+			"text": "Vayanla pasando, le dan de nuevo, elijan un n\u00famero para que lleguemos al consenso"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:03.23",
+			"end_time": "00:09:05.78",
+			"text": "Ya, votemos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:11.75",
+			"end_time": "00:09:12.87",
+			"text": "Nos quedamos con el 4"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:12.95",
+			"end_time": "00:09:13.47",
+			"text": "\u00bfNos quedamos con el 4?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:13.75",
+			"end_time": "00:09:15.27",
+			"text": "Porque depende si de los dos"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:15.70",
+			"end_time": "00:09:16.78",
+			"text": "Nos quedamos con el 4 entonces."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:17.65",
+			"end_time": "00:09:19.17",
+			"text": "Depended mucho de los 2 anteriores"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:24.78",
+			"end_time": "00:09:25.32",
+			"text": " Ya, estamos"
+		}
+	]
+}

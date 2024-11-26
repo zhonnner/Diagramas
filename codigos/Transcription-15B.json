@@ -1,0 +1,382 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:00.92",
+			"end_time": "00:00:17.21",
+			"text": " Dice, historia de usuario B. Yo como administrador de salas necesito gestionar la informaci\u00f3n, la asignaci\u00f3n de salas y laboratorios a las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:17.23",
+			"end_time": "00:00:18.92",
+			"text": "No, por si quer\u00edan."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:58.43",
+			"end_time": "00:02:02.62",
+			"text": "Ya, \u00bfc\u00f3mo andamos entonces?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:02.64",
+			"end_time": "00:02:03.09",
+			"text": "Mano derecha."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:03.56",
+			"end_time": "00:02:03.87",
+			"text": "Derecha."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:04.26",
+			"end_time": "00:02:04.54",
+			"text": "Derecha."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:08.46",
+			"end_time": "00:02:09.37",
+			"text": "Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:02:09.52",
+			"end_time": "00:02:10.52",
+			"text": "Uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:17.74",
+			"end_time": "00:02:25.25",
+			"text": " Ya, no, yo digo que es complicado por la cantidad de combinatorios que ten\u00e9is y los factores que influencian."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:26.12",
+			"end_time": "00:02:29.09",
+			"text": "Por ejemplo, ya ten\u00e9is la informaci\u00f3n de la sala, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:29.36",
+			"end_time": "00:02:30.02",
+			"text": "Y los laboratorios."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:30.71",
+			"end_time": "00:02:39.12",
+			"text": "Pero si quer\u00e9is evitar los traslapes y los problemas de capacidad, primero ten\u00e9is que tener en consideraci\u00f3n, por ejemplo, el logro de los profes, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:40.16",
+			"end_time": "00:03:09.06",
+			"text": " el horario de los profes es independiente de cada uno y ten\u00e9is que evitar eso y adem\u00e1s ten\u00e9is que evitar los problemas de capacidad no todas las salas tienen las mismas siglas entonces ten\u00e9is que estar pendiente tambi\u00e9n del tema de las inscripciones de la asignatura para asignarlo porque si no va a pasar lo que pasa a veces es que quedan muchos en una sala muy peque\u00f1a entonces si ten\u00e9is que tener en cuenta los factores de los profes y cada profe tiene sus propios horarios"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:09.62",
+			"end_time": "00:03:14.83",
+			"text": " Y adem\u00e1s, hay que sumarle el tema de la cantidad de alumnos que tienen que estar."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:14.87",
+			"end_time": "00:03:27.40",
+			"text": "Creo que ser\u00eda algo m\u00e1s... Se podr\u00eda hacer, pero siempre y cuando no haya como problema o surgieran dotes dentro del mismo horario de los profesores."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:28.09",
+			"end_time": "00:03:34.18",
+			"text": "\u00bfSe puede hacer una estimaci\u00f3n de cu\u00e1ntas personas van a estar en la asignatura?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:35.19",
+			"end_time": "00:03:41.93",
+			"text": " todos los semestres m\u00e1s o menos se tiene una cantidad de personas que est\u00e1n en la asignatura y yo creo que nunca sobrepasa en gran n\u00famero 100 menos es m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:42.94",
+			"end_time": "00:03:46.09",
+			"text": "Entonces en ese caso uno ya tiene una idea desde antes de cu\u00e1ntas personas van a estar ah\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:47.96",
+			"end_time": "00:03:53.87",
+			"text": "Lo otro, los profes siempre tienen, normalmente tienen horarios ya definidos, tienen un d\u00eda completo para distintos ramos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:03:54.36",
+			"end_time": "00:04:03.00",
+			"text": "Entonces la forma, yo lo veo como a la asignatura en s\u00ed, t\u00fa ya le vas a asociar un n\u00famero."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:03.55",
+			"end_time": "00:04:05.87",
+			"text": " y le vayas haciendo un rango de horario de un profesor."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:05.93",
+			"end_time": "00:04:17.72",
+			"text": "Entonces despu\u00e9s ir combinando las distintas asignaturas que tenga el profesor en el mismo d\u00eda para no ir solapando con las dem\u00e1s que tenga a lo mejor."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:18.60",
+			"end_time": "00:04:27.17",
+			"text": "O sea, es que la sala y los laboratorios siempre tienen como el mismo... O sea, est\u00e1 como definido cu\u00e1nta gente cabe en la sala y en los laboratorios."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:04:29.12",
+			"end_time": "00:04:52.49",
+			"text": " por ese lado yo creo que no es tan dif\u00edcil ahora lo de que cada profe tiene como su horario ah\u00ed es como un poco m\u00e1s complicado pero no s\u00e9 si sea como para ponerlo en complicado por eso le puse medio porque pueden surgir como algunos problemas pero no es como algo tan..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:04:53.00",
+			"end_time": "00:05:26.19",
+			"text": "No s\u00e9, igual yo le dec\u00eda medio porque por ejemplo el tiempo en el que se hace y la recopilaci\u00f3n de info que ten\u00e9is que hacer como lo m\u00e1s complicado porque en el caso de no s\u00e9 de irlo mostrando en la aplicaci\u00f3n no es dif\u00edcil teniendo la info de antes pero por ejemplo t\u00fa ya sab\u00e9is cu\u00e1ntos est\u00e1n inscritos obviamente es los que se inscriben despu\u00e9s pero eso no es mucho pero s\u00ed pero en teor\u00eda siempre hay horario o sea el horario siempre est\u00e1 puesto por ejemplo en nuestro caso"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:27.14",
+			"end_time": "00:05:34.75",
+			"text": " este semestre tenemos todo el horario de la sala, y de hecho incluso hay veces en econom\u00eda que cambiamos la sala conveniencia."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:35.61",
+			"end_time": "00:05:52.31",
+			"text": "Por ejemplo, eso no deber\u00eda pasar, porque en un inicio en una sala m\u00e1s chica y en otra... Entonces, claro, cada profesor podr\u00eda tener su... Yo creo que podr\u00eda ser su sala... Por ejemplo, ese cambio se podr\u00eda haber avisado por la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:05:53.69",
+			"end_time": "00:05:56.87",
+			"text": " O sea, dejar disponible esa otra sala que ya estaba."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:57.01",
+			"end_time": "00:06:03.51",
+			"text": "O lo que nos pas\u00f3 en f\u00edsica, que en teor\u00eda era otra sala, pero ah\u00ed el profe se expres\u00f3 mal y no pudimos, no supimos d\u00f3nde era."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:03.54",
+			"end_time": "00:06:10.87",
+			"text": "Entonces ah\u00ed es m\u00e1s f\u00e1cil, si esa info te llega como por el lado de mostrarlo as\u00ed, no es tan complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:11.25",
+			"end_time": "00:06:21.70",
+			"text": "Es como m\u00e1s tener como la info de las capacidades de la sala, saber los horarios y saber qu\u00e9 salas est\u00e1n disponibles en ese horario."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:22.68",
+			"end_time": "00:06:42.29",
+			"text": " pero eso por eso yo le puse medio como la complejidad de obtener como esa informaci\u00f3n y combinarla con lo que ya ten\u00eda es como lo complicado pero no es no creo que sea como as\u00ed para que no se pueda hacer como como nada as\u00ed como que no puede llegar a nada yo cacho que se puede..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:44.50",
+			"end_time": "00:06:47.49",
+			"text": "Un interfaz de usarlo tampoco ser\u00eda muy dif\u00edcil de desarrollar."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:06:48.12",
+			"end_time": "00:07:00.99",
+			"text": "Pero lo malo es que todas esas trabas que sean como los cambios de sala repentinos, que no caigan todos los alumnos, ser\u00eda como agregarle m\u00e1s cosas en la parte de..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:01.32",
+			"end_time": "00:07:09.75",
+			"text": "Es que el tema es que con esto vaya a evitar el cambio en la sala, que vaya a tener una sala ya definida para las personas que est\u00e1n dentro de la asignatura."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:10.74",
+			"end_time": "00:07:12.25",
+			"text": "Esa es la idea, \u00bfcachai?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:12.26",
+			"end_time": "00:07:15.77",
+			"text": "Que si yo tengo 60 personas, tener una sala con capacidad de al menos 60 personas."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:16.33",
+			"end_time": "00:07:20.07",
+			"text": "Entonces eso me va a evitar hacer el cambio de sala que puede perjudicar a otro profe."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:21.70",
+			"end_time": "00:07:46.37",
+			"text": " S\u00ed, pero igual, bueno, hay que ir agregando como todas esas cosas que son como, no s\u00e9, quiz\u00e1s un profe cambi\u00f3 de horario, entonces hay que agregar un sistema en el que pod\u00e1is como cambiar los profes de sala, pod\u00e1is ocupar la sala nueva, y esos son como m\u00e1s requerimientos que va necesitando la aplicaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:07:47.41",
+			"end_time": "00:07:50.04",
+			"text": "Entonces hay que ir como viendo todas esas cosas as\u00ed como..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:51.23",
+			"end_time": "00:08:06.38",
+			"text": " O sea, igual, por ejemplo, tomando en cuenta que los profes de por s\u00ed ya siguen en un horario fijo, mientras no se modifique eso, no deber\u00eda haber ning\u00fan problema, en realidad, ning\u00fan inconveniente con la asignaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:06.44",
+			"end_time": "00:08:08.43",
+			"text": "El profe a la sala al final."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:08.52",
+			"end_time": "00:08:10.47",
+			"text": "S\u00ed, el profe a la sala."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:10.52",
+			"end_time": "00:08:18.18",
+			"text": "Lo \u00fanico que podr\u00eda ser un inconveniente es el tema de que t\u00fa asignes primero a la sala y, claro, los que se inscriban posterior al ramo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:18.62",
+			"end_time": "00:08:24.94",
+			"text": " Que teng\u00e1is un n\u00famero de alumnos contabilizados y que despu\u00e9s se saquen y reinscriban."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:24.97",
+			"end_time": "00:08:31.00",
+			"text": "O sea, alumnos nuevos inscriban el ramo y te descuadran un poco."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:31.74",
+			"end_time": "00:08:36.91",
+			"text": "Pero s\u00ed, en verdad, es como el \u00fanico caso que podr\u00eda, porque toda la informaci\u00f3n ya es previa."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:36.94",
+			"end_time": "00:08:39.36",
+			"text": "Yo s\u00e9, no hay c\u00f3mo comprobarlo tampoco."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:39.82",
+			"end_time": "00:08:42.22",
+			"text": "No hay c\u00f3mo controlarlo tampoco."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:42.29",
+			"end_time": "00:08:43.84",
+			"text": "\u00bfCu\u00e1ntas personas van a inscribir despu\u00e9s del ramo?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:44.50",
+			"end_time": "00:08:45.75",
+			"text": "S\u00ed, bueno, te puedes colocar en un..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:47.67",
+			"end_time": "00:08:48.32",
+			"text": " Anteponerte."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:48.77",
+			"end_time": "00:08:50.00",
+			"text": "No hay una barra."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:08:51.62",
+			"end_time": "00:08:55.94",
+			"text": "Entonces, \u00bfqu\u00e9 crees? Que igual..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:07.01",
+			"end_time": "00:09:08.38",
+			"text": "\u00bfVotamos de nuevo?"
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:08.45",
+			"end_time": "00:09:09.14",
+			"text": "Votemos de nuevo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:14.96",
+			"end_time": "00:09:19.60",
+			"text": " Un, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:19.63",
+			"end_time": "00:09:29.07",
+			"text": "Si fuera de ese problema en particular, no creo que haya algo extra."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:09:29.14",
+			"end_time": "00:09:37.51",
+			"text": "Lo \u00fanico complejo ser\u00eda esos casos en que hayan alumnos nuevos o que los profesores necesiten, quiz\u00e1s por ese motivo, cambiar de sala."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:37.58",
+			"end_time": "00:09:38.12",
+			"text": "Cambiar de horario."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:38.44",
+			"end_time": "00:09:41.87",
+			"text": " pero son como cosas particulares."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:42.44",
+			"end_time": "00:09:52.87",
+			"text": "Porque esa info de la sala y todo eso hay que agregarlo al sistema pero son pocos datos entonces..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:56.44",
+			"end_time": "00:10:03.87",
+			"text": "El problema en realidad es como la combinatoria de lograr el polinomio pero al final todo esto ha sido"
+		}
+	]
+}

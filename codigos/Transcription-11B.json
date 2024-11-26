@@ -1,0 +1,424 @@
+{
+	"segments": [
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:00:03.56",
+			"end_time": "00:00:04.94",
+			"text": " L\u00e9elo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:00:05.41",
+			"end_time": "00:00:15.11",
+			"text": "Yo como administrador de salas necesito gestionar la informaci\u00f3n de la asignaci\u00f3n de salas y laboratorio de las asignaturas para evitar traslapes y problemas de capacidad."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:01:23.23",
+			"end_time": "00:01:23.32",
+			"text": " \u00bfYa?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:23.39",
+			"end_time": "00:01:23.68",
+			"text": "\u00bfPensaron?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:47.42",
+			"end_time": "00:01:48.73",
+			"text": " A votar."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:48.76",
+			"end_time": "00:01:49.56",
+			"text": "3, 2, 1, voten."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:49.71",
+			"end_time": "00:01:49.56",
+			"text": "2, 3, 2, 4."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:01:49.87",
+			"end_time": "00:01:52.50",
+			"text": "\u00bfPor qu\u00e9 piensan que es complicado?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:01:52.57",
+			"end_time": "00:01:55.09",
+			"text": "Yo pienso en"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:17.02",
+			"end_time": "00:02:19.69",
+			"text": " as\u00ed como viendo el tema de los datos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:02:20.12",
+			"end_time": "00:02:21.46",
+			"text": "\u00bfDe la consistencia?"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:22.78",
+			"end_time": "00:02:23.18",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:24.36",
+			"end_time": "00:02:29.43",
+			"text": "Son temas que igual van a estar constantemente cambiando, como lo hab\u00edamos discutido antes sobre el otro."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:31.21",
+			"end_time": "00:02:43.96",
+			"text": "Y donde cada alumno va a tener un conjunto de informaci\u00f3n distinto y va a estar constantemente accedi\u00e9ndose a la base de datos, a cambiar valores."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:45.94",
+			"end_time": "00:02:52.25",
+			"text": " Puede ser que, puesto que es complejo, que se mantengan como corresponde."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:02:53.72",
+			"end_time": "00:02:54.65",
+			"text": "Complejo administrar."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:02:56.00",
+			"end_time": "00:03:09.05",
+			"text": "Yo como frontend digo que esto es complicado porque, m\u00e1s que nada, aqu\u00ed hay un mont\u00f3n de datos que tiene que mostrar, o sea, que se le tiene que mostrar al administrador de sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:10.18",
+			"end_time": "00:03:14.24",
+			"text": "Porque hay que tomar en cuenta, como dijo \u00e9l, a los alumnos, que en este caso ser\u00eda..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:15.25",
+			"end_time": "00:03:21.30",
+			"text": " Tambi\u00e9n la capacidad de la sala, que tampoco puede pasarse sobre la capacidad que tiene la sala."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:22.36",
+			"end_time": "00:03:41.56",
+			"text": "Y lo otro tambi\u00e9n debe ser referente a los ramos que tome cada persona, que est\u00e9 asociada a una sala con un profe, que tambi\u00e9n tenga un c\u00f3digo para identificar el ramo, y tambi\u00e9n est\u00e9 en un horario de..."
+		},
+		{
+			"speaker": "SPEAKER_02",
+			"start_time": "00:03:43.06",
+			"end_time": "00:03:55.13",
+			"text": " Y eso tambi\u00e9n junto a la capacidad de la sala puede llegar a ser complicado a la hora de que el alumno llegue a inscribir ramos por la cantidad de alumnos que est\u00e9n inscribiendo los mismos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:03:59.80",
+			"end_time": "00:04:10.12",
+			"text": "Bueno, en el tema de experiencia de usuario, aqu\u00ed este problema implica asignar el, \u00bfc\u00f3mo se llama esto?,"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:11.30",
+			"end_time": "00:04:14.87",
+			"text": " El tama\u00f1o de las salas, que esos datos no los hab\u00edamos tomado en cuenta antes."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:15.97",
+			"end_time": "00:04:16.86",
+			"text": "No lo hab\u00edamos pensado antes."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:04:17.06",
+			"end_time": "00:04:20.88",
+			"text": "Entonces, tampoco es tan complicado solo agregar un dato a m\u00e1s."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:20.94",
+			"end_time": "00:04:24.56",
+			"text": "Yo creo que por eso no es tan complicado como medio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:25.00",
+			"end_time": "00:04:39.52",
+			"text": "Yo pienso que algo sencillo, no, algo medio, desde el modo de backend, ya que cada sala podr\u00eda ser su propia tabla y los horarios ser\u00edan los atributos."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:40.04",
+			"end_time": "00:04:51.64",
+			"text": " Y despu\u00e9s si alguien quiere meter informaci\u00f3n en la tabla, si se excede de la cantidad de alumnos, no podr\u00eda entrar en la tabla y dar\u00eda error."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:04:51.67",
+			"end_time": "00:05:01.43",
+			"text": "As\u00ed que ya se podr\u00eda corregir a medida que se genera la base de datos."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:04.62",
+			"end_time": "00:05:08.29",
+			"text": "Es igual que usted vi\u00e9ndolo, porque si es una cantidad gigante de..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:09.97",
+			"end_time": "00:05:25.27",
+			"text": " de alumnos porque como toda la app tui habr\u00eda que ver tambi\u00e9n en d\u00f3nde se guarda toda esta informaci\u00f3n y c\u00f3mo se sincronizar\u00eda la distinta base de datos quiz\u00e1 una base de datos que contenga esto \u00fanica."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:05:26.17",
+			"end_time": "00:05:28.57",
+			"text": " En el encryption service"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:29.00",
+			"end_time": "00:05:37.57",
+			"text": "Claro si se ve como \u00fanica y o sea como estar\u00eda como la replicaci\u00f3n de los datos en distintas bases de datos quiz\u00e1 para ac\u00e1"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:05:39.45",
+			"end_time": "00:06:07.02",
+			"text": " para cada facultad igual es como el problema que ten\u00edamos nosotros con por ejemplo con otra carrera de que estamos en otra asignatura que cuesta mucho como inscribirse un alumno de una carrera en otra, para otra asignatura como que est\u00e1n como bien separados el tema de los alumnos entre carreras"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:08.99",
+			"end_time": "00:06:26.43",
+			"text": " S\u00ed, tienen que estar separados por carrera, pero el traspaso de datos es lo \u00fanico que toma tiempo, porque la informaci\u00f3n de tama\u00f1o de aula y tama\u00f1o de ramo ya est\u00e1 ah\u00ed, es simplemente agregar o quitar."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:27.16",
+			"end_time": "00:06:38.38",
+			"text": "Claro, pero por ejemplo, si un estudiante toma el ramo en otra carrera, \u00bfle cambia la informaci\u00f3n sobre la sala que viene a estudiar?"
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:39.25",
+			"end_time": "00:06:47.58",
+			"text": " S\u00ed, pero no es algo dif\u00edcil de cambiar, no es algo que va a ir en cascada despu\u00e9s de hacer el cambio."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:06:47.88",
+			"end_time": "00:06:49.21",
+			"text": "Es como que si..."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:50.00",
+			"end_time": "00:06:50.81",
+			"text": "Pero toma su tiempo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:50.82",
+			"end_time": "00:06:51.11",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:51.14",
+			"end_time": "00:06:53.97",
+			"text": "Creo que podr\u00edamos pensar ahora en otra votaci\u00f3n."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:06:55.12",
+			"end_time": "00:06:55.93",
+			"text": "Y volver a..."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:06:56.32",
+			"end_time": "00:06:56.93",
+			"text": "S\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:07:02.93",
+			"end_time": "00:07:04.18",
+			"text": "Un segundo para pensar lo que es uno."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:07:04.30",
+			"end_time": "00:07:05.74",
+			"text": "Si esa es la idea."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:07:35.87",
+			"end_time": "00:07:38.87",
+			"text": " Ya, \u00bfqu\u00e9 tal con su n\u00famero?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:05.17",
+			"end_time": "00:08:05.29",
+			"text": " Ya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:06.08",
+			"end_time": "00:08:09.91",
+			"text": "Entonces, uno, dos, tres."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:16.76",
+			"end_time": "00:08:18.37",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:18.38",
+			"end_time": "00:08:20.00",
+			"text": "Primero el m\u00e1s bajo, porque..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:20.78",
+			"end_time": "00:08:22.88",
+			"text": "Como sigo diciendo, es algo que..."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:08:26.42",
+			"end_time": "00:08:33.69",
+			"text": " que se va a cambiar en cascada no es algo que vaya a ser mucho problema, no se puede hacer en dos semanas."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:35.52",
+			"end_time": "00:08:37.29",
+			"text": "Yo, \u00bfpor qu\u00e9 cambi\u00e9 a cinco?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:37.37",
+			"end_time": "00:08:52.35",
+			"text": "porque yo creo que en dos semanas es muy muy complicado desde el punto de vista, claro, pensando que son diferentes carreras, diferentes salas y diferentes alumnos, porque piensa que cuando un alumno se va a llegar a inscribir te puede mostrar algo preliminar, \u00bfcierto?"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:52.37",
+			"end_time": "00:08:53.00",
+			"text": "as\u00ed la aplicaci\u00f3n"
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:08:53.66",
+			"end_time": "00:09:01.91",
+			"text": " pero luego en dos semanas alguien inscribe a Ramos, desinscribe a Ramos y aplica el conocimiento que tiene."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:03.65",
+			"end_time": "00:09:06.01",
+			"text": "S\u00ed, es un tema importante."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:06.05",
+			"end_time": "00:09:08.96",
+			"text": "Entonces, por ejemplo, puede haber una sala que choque y una sala que no choque."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:08.98",
+			"end_time": "00:09:10.87",
+			"text": "Entonces, en dos semanas es muy dif\u00edcil."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:10.89",
+			"end_time": "00:09:13.09",
+			"text": "Ya, votemos de nuevo."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:15.19",
+			"end_time": "00:09:19.00",
+			"text": "S\u00ed, pero hay que... Yo digo que llega a un consenso."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:19.02",
+			"end_time": "00:09:21.38",
+			"text": "Yo pienso que son muchos alumnos con cambios"
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:22.33",
+			"end_time": "00:09:24.49",
+			"text": " constantes cambios, muchos cambios todo el tiempo."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:24.88",
+			"end_time": "00:09:28.04",
+			"text": "Entonces por eso es bastante dif\u00edcil, pienso yo."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:28.62",
+			"end_time": "00:09:30.88",
+			"text": "Entonces es complicado."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:30.90",
+			"end_time": "00:09:35.69",
+			"text": "Yo pienso que, no s\u00e9 si es imposible, aunque en la pr\u00e1ctica se ha visto que no se ha llegado a nada."
+		},
+		{
+			"speaker": "SPEAKER_00",
+			"start_time": "00:09:35.73",
+			"end_time": "00:09:39.09",
+			"text": "Entonces ser\u00edan cuatro consensos."
+		},
+		{
+			"speaker": "SPEAKER_03",
+			"start_time": "00:09:39.45",
+			"end_time": "00:09:39.80",
+			"text": "S\u00ed, s\u00ed."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:40.10",
+			"end_time": "00:09:40.20",
+			"text": "Ya."
+		},
+		{
+			"speaker": "SPEAKER_01",
+			"start_time": "00:09:43.50",
+			"end_time": "00:09:47.91",
+			"text": "Sobre todo por el tema de los traslapes, que no choquen, es complicado."
+		}
+	]
+}
