@@ -1,9 +1,13 @@
 # Diagramas
 
 Cada layout es la interfaz con los 3 diagramas de cada reunion.
+
 En la carpeta codigos esta tantos los codigos en python que use como los archivos .xlsx necesarios para correr los primeros archivos.
+
 los archivo .xlsx repeticiones es la cantidad de intervalos de mimetismos que tienen los speakers, repeticionesPrueba es lo mismo pero de los 6 grupos de prueba que se tomaron inicialmente.
+
 las carpetas assets, isolados, homogeneos y balanceados tienens los archivos con la informacion necesaria para correr los programas layouts.
+
 
 Homogeneos
 
